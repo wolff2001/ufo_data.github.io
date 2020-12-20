@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 # JavaScript Homework - JavaScript and DOM Manipulation
+=======
+# javascript-challenge
+A webpage for UFO sightings that uses JavaScript, HTML, and CSS, and D3.js. Website is at https://ufo_data.github.io
+>>>>>>> 813523281ae5af51eaff678c421340a0220f94ac
 
 ## Background
 
@@ -10,6 +15,7 @@ That's why we are hiring you. We need you to write code that will create a table
 
 You can handle this... right? The planet Earth needs to know what we have found!
 
+<<<<<<< HEAD
 ## Your Task
 
 ### Before You Begin
@@ -61,3 +67,7 @@ You can handle this... right? The planet Earth needs to know what we have found!
 ### Copyright
 
 Trilogy Education Services © 2019. All Rights Reserved.
+=======
+Advanced site:
+![advanced_site](static/images/advanced_search.png)
+>>>>>>> 813523281ae5af51eaff678c421340a0220f94ac
