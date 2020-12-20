@@ -3,7 +3,6 @@
 =======
 # javascript-challenge
 A webpage for UFO sightings that uses JavaScript, HTML, and CSS, and D3.js. Website is at https://ufo_data.github.io
->>>>>>> 813523281ae5af51eaff678c421340a0220f94ac
 
 ## Background
 
